@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Rimjhim Singh! 👋
+
+## About Me
+I'm a passionate developer with a love for coding and problem-solving. I specialize in HTML, Python, DSA, MySQL, C++, and front-end technologies.
+
+## Skills
+- **HTML**: Proficient in creating structured and semantic web pages.
+- **Python**: Experienced in building applications and automating tasks.
+- **Data Structures & Algorithms**: Strong understanding of DSA to write efficient code.
+- **MySQL**: Skilled in database management and SQL queries.
+- **C++**: Knowledgeable in object-oriented programming and system design.
+- **Front End**: Adept in crafting responsive and user-friendly interfaces.
+
+## Projects
+Here are some of my favorite projects:
+- Project Name - A brief description of what the project does.
+- Project Name - A brief description of what the project does.
+- Project Name - A brief description of what the project does.
+
+## Connect with Me
+- **Email**: `srimjhim700@gmail.com`
+
+Feel free to reach out if you have any questions or just want to connect!
