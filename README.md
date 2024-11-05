@@ -29,7 +29,7 @@ I'm a passionate developer with a love for coding and problem-solving. I special
 
 ## Projects
 Here are some of my favorite projects:
-- [x] Faamily cloud - famly cloud has functionality of providing a setup for faamilies to share photos at one place , their mobile screens and calender and task management together, static website deployment .
+- [x] Family cloud - family cloud has functionality of providing a setup for faamilies to share photos at one place , their mobile screens and calender and task management together, static website deployment .
 - [x] Rsvp synapse system - As the name suggets we create a rsvp system for the people to register for the upcoming events .
 - [x] Space VR  - It is a Hackathon project where we as  a team of 6 members created a three js based website which let's user experience the space environment closely also we let user choose the options using hand tracking and explore each option including games, realtime satelite movement.
 
