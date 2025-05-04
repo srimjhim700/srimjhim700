@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hello, I'm Rimjhim Singh! 👋
 
 ## About Me
-I'm a passionate developer with a love for coding and problem-solving. I specialize in HTML, Python, DSA, MySQL, C++, and front-end technologies.
+I'm a passionate developer with a love for coding and problem-solving. I specialize in HTML,CSS, Python, DSA, MySQL, Java,C++ and front-end technologies.
 
 ## Skills
 - **HTML**: Proficient in creating structured and semantic web pages.
@@ -25,7 +25,7 @@ I'm a passionate developer with a love for coding and problem-solving. I special
 - **Data Structures & Algorithms**: Strong understanding of DSA to write efficient code.
 - **MySQL**: Skilled in database management and SQL queries.
 - **C++**: Knowledgeable in object-oriented programming and system design.
-- **Front End**: Adept in crafting responsive and user-friendly interfaces.
+- **Front End**: Adapt in crafting responsive and user-friendly interfaces with flask and streamlit frameworks.
 
 ## Projects
 Here are some of my favorite projects:
