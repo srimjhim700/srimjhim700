@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 # Hello, I'm Rimjhim Singh! 👋
 
 ## About Me
-I'm a passionate developer with a love for coding and problem-solving. I specialize in HTML,CSS, Python, DSA, MySQL, Java,C++ and front-end technologies.
+I love coding and problem-solving and specialize in AI,ML,HTML,CSS, Python, DSA, MySQL, Java and front-end technologies. Currently learning about system Design.
 
 ## Skills
+- **AI**: Experience in working with LLM and Hugging face embedding model.
 - **HTML**: Proficient in creating structured and semantic web pages.
 - **Python**: Experienced in building applications and automating tasks.
 - **Data Structures & Algorithms**: Strong understanding of DSA to write efficient code.
